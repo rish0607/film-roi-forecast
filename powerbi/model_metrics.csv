@@ -1,0 +1,8 @@
+﻿metric,value
+test_r2_log_revenue,0.477
+cv_r2_log_revenue,0.467
+mae_log_revenue,0.81
+median_abs_error_roi,1.338
+v1_test_r2,0.437
+v1_cv_r2,0.432
+latest_year_in_data,2016.0

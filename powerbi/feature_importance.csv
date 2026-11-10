@@ -1,0 +1,21 @@
+﻿feature,group,importance
+Budget,Project attribute,0.41107369297180346
+Star power,Project attribute,0.10582239633722759
+Runtime,Project attribute,0.07611858694457532
+Release year,Project attribute,0.06619805949213202
+Adventure,Genre,0.031010495197404758
+Drama,Genre,0.022193710737196518
+Release quarter,Project attribute,0.01957249160113986
+life,Logline words,0.014205798777922161
+Family,Genre,0.012755946265395031
+Animation,Genre,0.01183794343964177
+story,Logline words,0.011089918059974205
+man,Logline words,0.010919361088012785
+world,Logline words,0.009651022540746828
+love,Logline words,0.009607288629562344
+Action,Genre,0.009538968980680122
+new,Logline words,0.008945083512502238
+Fantasy,Genre,0.008536046143121489
+family,Logline words,0.008526665391837366
+Thriller,Genre,0.007431909723179518
+Comedy,Genre,0.00728200611885749
